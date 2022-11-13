@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "rootDir": "./",
+    "outDir": "./scripts",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "target": "es5",
+    "sourceMap": true
+  }
+}
